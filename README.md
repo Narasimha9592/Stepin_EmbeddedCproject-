@@ -2,6 +2,17 @@
 ## introduction
 The main feature of this project is to moniter the temperature of seat of a vehicles.Esespecially is it is used for the european countries because the temperatures in the those countries are low so using this concept we can moniter the temperature of seat.In these days everyone is looking for easy way of living and the main aim of this project is to control the temperature of seat whenever the passangers are sitting we can monitor the heat of the seat.
 
+## FOLDER STRUCTURE
+
+
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | https://meet.google.com/xqp-tcpp-xjb specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+
+
 ## FEATURES
 1. It determines whether the persons are existed or not.
 
