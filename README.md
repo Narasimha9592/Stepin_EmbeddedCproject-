@@ -8,7 +8,7 @@ The main feature of this project is to moniter the temperature of seat of a vehi
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | https://meet.google.com/xqp-tcpp-xjb specifying design details
+`2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 
