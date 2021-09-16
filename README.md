@@ -31,6 +31,8 @@ Folder             | Description
  
 3. Then the person can monitor the temperature by his own.
 
+## 
+
 ## SWOT ANALYSIS:Strength's,Weaknesses,Opportunties,Threats.
 
 ## STRENGTHS
