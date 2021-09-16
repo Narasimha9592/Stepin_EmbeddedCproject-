@@ -1,8 +1,8 @@
 # Stepin_EmbeddedCproject-
-## introduction
+## Introduction
 The main feature of this project is to moniter the temperature of seat of a vehicles.Esespecially is it is used for the european countries because the temperatures in the those countries are low so using this concept we can moniter the temperature of seat.In these days everyone is looking for easy way of living and the main aim of this project is to control the temperature of seat whenever the passangers are sitting we can monitor the heat of the seat.
 
-##USED COMPONENTS
+## USED COMPONENTS
 
 1.Temperature sensor
 
