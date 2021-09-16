@@ -66,6 +66,6 @@ WHY: For stablising the temperature of a person.
 HOW:It can depends on temperature.
 
 
-|code inspector|codacy|
+|code inspector|codequality|
 |:--:|:--:|
-[![code inspector](https://www.code-inspector.com/project/28740/status/svg)]
+![code inspector](https://www.code-inspector.com/project/28740/status/svg)|![codequality](https://www.code-inspector.com/project/28740/score/svg)
