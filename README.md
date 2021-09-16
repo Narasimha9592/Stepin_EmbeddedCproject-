@@ -46,4 +46,4 @@ HOW:It can depends on temperature.
 
 |code inspector|codacy|
 |:--:|:--:|
-[!code inspector(https://www.code-inspector.com/project/28740/status/svg)]
+[![code inspector](https://www.code-inspector.com/project/28740/status/svg)]
